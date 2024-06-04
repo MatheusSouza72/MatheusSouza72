@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,react,typescript,java,spring,android" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,react,typescript,java,spring,androidstudio" />
 </a>
 </p><br>
 
