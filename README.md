@@ -10,7 +10,7 @@
 <div align="center">
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusSouza72&show_icons=true&count_private=true&hide_border=true&title_color=ea5b5b&icon_color=ea5b5b&text_color=c9d1d9&bg_color=00000000" alt="Matheus Souza Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KVIANA83&layout=compact&hide_border=true&title_color=ea5b5b&text_color=c9d1d9&bg_color=00000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username==MatheusSouza72&layout=compact&hide_border=true&title_color=ea5b5b&text_color=c9d1d9&bg_color=00000000" />
 
 </div>
 <br><br>
@@ -23,9 +23,9 @@
 
 
 <div align="center"> 
-<a href="https://www.instagram.com/kviana83?igsh=aWI3bmNrcXN0amV5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ea5b5b"</a>
-<a href = "mailto:caldaskarine2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ea5b5b" target="_blank"></a>
-<a href="https://www.linkedin.com/in/karine-viana-caldas-aa03a2194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ea5b5b" style="border-radius: 30px" target="_blank"></a> 
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ea5b5b"</a>
+<a href = "mailto: "><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ea5b5b" target="_blank"></a>
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ea5b5b" style="border-radius: 30px" target="_blank"></a> 
  </div>
  <br><br><br>
 
@@ -37,7 +37,7 @@
 
 <p align="center">Total de Visitas no meu Perfil</p>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/KVIANA83/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/MatheusSouza72/count.svg" />
  </p>
 
 
