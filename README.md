@@ -24,8 +24,8 @@
 
 <div align="center"> 
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ea5b5b"</a>
-<a href = "mailto: "><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ea5b5b" target="_blank"></a>
-<a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ea5b5b" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:matheus7778842@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ea5b5b" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-costa-2b019a293" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ea5b5b" style="border-radius: 30px" target="_blank"></a> 
  </div>
  <br><br><br>
 
