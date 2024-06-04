@@ -10,7 +10,7 @@
 <div align="center">
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusSouza72&show_icons=true&count_private=true&hide_border=true&title_color=ea5b5b&icon_color=ea5b5b&text_color=c9d1d9&bg_color=00000000" alt="Matheus Souza Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username==MatheusSouza72&layout=compact&hide_border=true&title_color=ea5b5b&text_color=c9d1d9&bg_color=00000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSouza72&layout=compact&hide_border=true&title_color=ea5b5b&text_color=c9d1d9&bg_color=00000000" />
 
 </div>
 <br><br>
